@@ -399,6 +399,7 @@
                         <!-- Standard project files to exclude -->
                         <exclude>**/.idea/**</exclude>
                         <exclude>**/.travis.yml</exclude>
+                        <exclude>**/buildspec.yml</exclude>
                         <exclude>**/BUILD.md</exclude>
                         <exclude>**/CHANGELOG.md</exclude>
                         <exclude>**/CONTRIBUTING.md</exclude>
